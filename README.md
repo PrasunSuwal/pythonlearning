@@ -1,3 +1,3 @@
 # pythonlearning
-Learning python
+Learning python.
 This is my first time learning python.
